@@ -1,1 +1,1 @@
-# COMP-332-Project-Team: This project explores multiple types of human-computer interaction (HCI) modes, written in Python. Included is the script and project writeup. 
+# COMP-332-Project-Team: This project explores multiple types of human-computer interaction (HCI) modes, written in Python. Multiple libraries, including NLP and computer vision APIs were used in writing. Included is the script and project writeup. 
